@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="200" src="https://github.com/yearina/yearina/blob/main/profile1.jpg" />
 
 <p align="left" style="line-height: 1.5; height: 200px; display: flex; align-items: center;">
     🌐 Frontend & Backend Developer | UI/UX Enthusiast<br>

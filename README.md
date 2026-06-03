@@ -14,7 +14,6 @@
 
 <p align="left" style="line-height: 1.5; height: 200px; display: flex; align-items: center;">
     🌐 Frontend & Backend Developer | UI/UX Enthusiast<br>
-    📈 Always learning, currently exploring UI/UX design<br>
     🌱 Let's collaborate on innovative projects!<br>
     🎲 Fun fact: I like to think about random things😊
 </p><br>
